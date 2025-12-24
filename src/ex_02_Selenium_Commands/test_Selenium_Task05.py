@@ -13,5 +13,6 @@ def test_seleniumTask05():
     page_source = driver.page_source
     print(page_source)
     print(driver.current_url)
+    print(driver.title)
     assert "CURA Healthcare Service" in page_source
     driver.quit()
