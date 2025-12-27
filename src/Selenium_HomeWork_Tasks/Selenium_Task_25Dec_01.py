@@ -22,9 +22,10 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 
+
 def test_selenium_homework_task1():
     chrome_options = Options()
-    chrome_options.add_argument("--start-maximized")
+    chrome_options.add_argument("--size-maximized")
     driver = webdriver.Chrome(chrome_options)
     driver.get("https://app.vwo.com/#/login")
     print(driver.current_url)
@@ -45,6 +46,3 @@ def test_selenium_homework_task1():
     assert "Your email, password, IP address or location did not match" == error_message.text
     time.sleep(2)
     driver.quit()
-
-
-

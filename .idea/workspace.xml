@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69bc31a7-d5bc-4590-9c1e-459bac61d5bf" name="Changes" comment="Changes of 25-12-2025,&#10;Includes Program Selenium 06,07,08,09.py">
-      <change afterPath="$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/Selenium_Task_25Dec_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Selenium_MiniProjects_Locators/test_Selenium_10_ParallelExecution_08_09.py" afterDir="false" />
+    <list default="true" id="69bc31a7-d5bc-4590-9c1e-459bac61d5bf" name="Changes" comment="Changes of 25-12-2025,&#10;Includes Program Selenium 10 and Home Work Task 1 Completed">
+      <change afterPath="$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/Selenium_Task_26Dec_02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_03_Selenium_MiniProjects_Locators/test_Selenium_09_ProjectNegativeCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Selenium_MiniProjects_Locators/test_Selenium_09_ProjectNegativeCase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/Selenium_Task_25Dec_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/Selenium_Task_25Dec_01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +51,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_25Dec_01.test_selenium_homework_task1.executor": "Run",
+    "Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_26Dec_02.test_selenium_homework_task2.executor": "Run",
     "Python tests.Python tests for src.ex_01_Selenium_Basics.test_Selenium_01.test_seleniumcommands.executor": "Run",
     "Python tests.Python tests for src.ex_02_Selenium_Commands.test_Selenium_07_OptionClass.test_chrome_options.executor": "Run",
     "Python tests.Python tests for src.ex_02_Selenium_Commands.test_Selenium_08_Project_1.test_selenium_project_1.executor": "Run",
@@ -60,6 +59,7 @@
     "Python tests.Python tests for src.ex_03_Selenium_MiniProjects_Locators.test_Selenium_09_ProjectNegativeCase.test_selenium_newproject_negative_case.executor": "Run",
     "Python tests.Python tests for src.ex_03_Selenium_MiniProjects_Locators.test_Selenium_10_ParallelExecution_08_09.test_selenium_newproject_negative_case.executor": "Run",
     "Python tests.Python tests in Selenium_Task_25Dec_01.py.executor": "Run",
+    "Python tests.Python tests in Selenium_Task_26Dec_02.py.executor": "Run",
     "Python tests.Python tests in test_Selenium_07_OptionClass.py.executor": "Run",
     "Python tests.Python tests in test_Selenium_08_Project_1.py.executor": "Run",
     "Python tests.Python tests in test_Selenium_09_ProjectNegativeCase.py.executor": "Run",
@@ -77,7 +77,7 @@
       <recent name="D:\Sachin_Personal\TheTestingAcademy\PythonCode\PyATB6xLearningSelenium\src\ex_01_Selenium_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_25Dec_01.test_selenium_homework_task1">
+  <component name="RunManager" selected="Python tests.Python tests in Selenium_Task_26Dec_02.py">
     <configuration name="Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_25Dec_01.test_selenium_homework_task1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
@@ -93,7 +93,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.ex_03_Selenium_MiniProjects_Locators.test_Selenium_09_ProjectNegativeCase.test_selenium_newproject_negative_case" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_26Dec_02.test_selenium_homework_task2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,7 +104,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_03_Selenium_MiniProjects_Locators.test_Selenium_09_ProjectNegativeCase.test_selenium_newproject_negative_case&quot;" />
+      <option name="_new_target" value="&quot;src.Selenium_HomeWork_Tasks.Selenium_Task_26Dec_02.test_selenium_homework_task2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -138,7 +138,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_Selenium_09_ProjectNegativeCase.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in Selenium_Task_26Dec_02.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,17 +149,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_03_Selenium_MiniProjects_Locators/test_Selenium_09_ProjectNegativeCase.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/Selenium_Task_26Dec_02.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in Selenium_Task_26Dec_02.py" />
+        <item itemvalue="Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_26Dec_02.test_selenium_homework_task2" />
         <item itemvalue="Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_25Dec_01.test_selenium_homework_task1" />
         <item itemvalue="Python tests.Python tests in Selenium_Task_25Dec_01.py" />
         <item itemvalue="Python tests.Python tests for src.ex_03_Selenium_MiniProjects_Locators.test_Selenium_10_ParallelExecution_08_09.test_selenium_newproject_negative_case" />
-        <item itemvalue="Python tests.Python tests for src.ex_03_Selenium_MiniProjects_Locators.test_Selenium_09_ProjectNegativeCase.test_selenium_newproject_negative_case" />
-        <item itemvalue="Python tests.Python tests in test_Selenium_09_ProjectNegativeCase.py" />
       </list>
     </recent_temporary>
   </component>
@@ -218,13 +218,22 @@
       <option name="project" value="LOCAL" />
       <updated>1766696018734</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Changes of 25-12-2025,&#10;Includes Program Selenium 10 and Home Work Task 1 Completed">
+      <option name="closed" value="true" />
+      <created>1766851434295</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766851434295</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Class 1 Selenium Code commits 22-Dec-2025" />
     <MESSAGE value="Added the Readme file changes in Learning Selenium repo" />
     <MESSAGE value="Changes of 25-12-2025,&#10;Includes Program Selenium 06,07,08,09.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes of 25-12-2025,&#10;Includes Program Selenium 06,07,08,09.py" />
+    <MESSAGE value="Changes of 25-12-2025,&#10;Includes Program Selenium 10 and Home Work Task 1 Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes of 25-12-2025,&#10;Includes Program Selenium 10 and Home Work Task 1 Completed" />
   </component>
 </project>
