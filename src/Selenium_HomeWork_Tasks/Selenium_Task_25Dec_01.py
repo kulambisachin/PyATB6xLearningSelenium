@@ -25,7 +25,7 @@ from selenium.webdriver.common.by import By
 
 def test_selenium_homework_task1():
     chrome_options = Options()
-    chrome_options.add_argument("--size-maximized")
+    chrome_options.add_argument("--start-maximized")
     driver = webdriver.Chrome(chrome_options)
     driver.get("https://app.vwo.com/#/login")
     print(driver.current_url)
