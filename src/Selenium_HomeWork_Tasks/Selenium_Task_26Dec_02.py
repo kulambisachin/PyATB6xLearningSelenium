@@ -11,7 +11,7 @@ Mini Project #2 (Selenium)
 
 // Find and Click on the Sigin button
 
-// Verify that the message is shown "Your free trail has expired"
+// Verify that the message is shown "Your free trial has expired"
 
 """
 
