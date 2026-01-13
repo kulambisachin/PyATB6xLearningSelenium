@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69bc31a7-d5bc-4590-9c1e-459bac61d5bf" name="Changes" comment="Commits of 08-01-2026 of all programs">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_07_SVG/test_Lab_Selenium_Maps.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_SVG/test_Lab_Selenium_Maps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_07_SVG/test_Lab_Selenium_SVG.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_SVG/test_Lab_Selenium_SVG.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08_Select_Dropdown/test_Selenium_Select.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08_Select_Dropdown/test_Selenium_Select.py" afterDir="false" />
-    </list>
+    <list default="true" id="69bc31a7-d5bc-4590-9c1e-459bac61d5bf" name="Changes" comment="Commits of 08-01-2026 of all programs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -303,8 +298,27 @@
       <option name="project" value="LOCAL" />
       <updated>1768292474364</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Commits of 08-01-2026 of all programs">
+      <option name="closed" value="true" />
+      <created>1768293047989</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1768293047989</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Class 1 Selenium Code commits 22-Dec-2025" />
