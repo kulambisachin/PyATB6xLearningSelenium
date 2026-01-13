@@ -25,6 +25,6 @@ def test_selenium_svg_maps():
 
     select.select_by_visible_text("Option 2")
 
-    time.sleep(3)
+    time.sleep(2)
 
     driver.quit()

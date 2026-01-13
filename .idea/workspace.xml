@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69bc31a7-d5bc-4590-9c1e-459bac61d5bf" name="Changes" comment="Commits of 08-01-2026">
-      <change afterPath="$PROJECT_DIR$/src/ex_07_SVG/test_Lab_Selenium_Maps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_SVG/test_Lab_Selenium_SVG.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Select_Dropdown/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Select_Dropdown/test_Selenium_Select.py" afterDir="false" />
+    <list default="true" id="69bc31a7-d5bc-4590-9c1e-459bac61d5bf" name="Changes" comment="Commits of 08-01-2026 of all programs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07_SVG/test_Lab_Selenium_Maps.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_SVG/test_Lab_Selenium_Maps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07_SVG/test_Lab_Selenium_SVG.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_SVG/test_Lab_Selenium_SVG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_08_Select_Dropdown/test_Selenium_Select.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08_Select_Dropdown/test_Selenium_Select.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768224584447</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Commits of 08-01-2026 of all programs">
+      <option name="closed" value="true" />
+      <created>1768292474364</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1768292474364</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -308,6 +315,7 @@
     <MESSAGE value="Selenium Program 11 and 12 (06-01-2026)" />
     <MESSAGE value="Selenium Program 11 and 12 (06-01-2026).&#10;Moving to the new folders" />
     <MESSAGE value="Commits of 08-01-2026" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commits of 08-01-2026" />
+    <MESSAGE value="Commits of 08-01-2026 of all programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commits of 08-01-2026 of all programs" />
   </component>
 </project>

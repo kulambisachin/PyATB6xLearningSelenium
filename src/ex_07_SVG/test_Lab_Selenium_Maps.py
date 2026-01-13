@@ -31,6 +31,6 @@ def test_selenium_svg_maps():
             state.click()
             break
 
-    time.sleep(5)
+    time.sleep(3)
 
     driver.quit()

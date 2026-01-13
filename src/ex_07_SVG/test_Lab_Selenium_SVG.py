@@ -27,7 +27,7 @@ def test_selenium_timeout_exception():
     list_svg_element = driver.find_elements(By.XPATH, "//*[name()='svg']")
     list_svg_element[0].click()
 
-
+    time.sleep(3)
     driver.quit()
 
 
