@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69bc31a7-d5bc-4590-9c1e-459bac61d5bf" name="Changes" comment="Commits of 08-01-2026 of all programs">
-      <change afterPath="$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/Selenium_Task_08Dec_03.py" afterDir="false" />
+    <list default="true" id="69bc31a7-d5bc-4590-9c1e-459bac61d5bf" name="Changes" comment="Commits of 08-01-2026, Task 1 | Home Work">
+      <change afterPath="$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/Selenium_Task_08Dec_04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/Selenium_Task_08Dec_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/Selenium_Task_08Dec_03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_03.test_selenium_select_box.executor": "Run",
+    "Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_04.test_svg_img.executor": "Run",
     "Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_25Dec_01.test_selenium_homework_task1.executor": "Run",
     "Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_26Dec_02.test_selenium_homework_task2.executor": "Run",
     "Python tests.Python tests for src.ex_01_Selenium_Basics.test_Selenium_01.test_seleniumcommands.executor": "Run",
@@ -98,7 +100,7 @@
       <recent name="D:\Sachin_Personal\TheTestingAcademy\PythonCode\PyATB6xLearningSelenium\src\ex_01_Selenium_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_03.test_selenium_select_box">
+  <component name="RunManager" selected="Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_04.test_svg_img">
     <configuration name="Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_03.test_selenium_select_box" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
@@ -111,6 +113,21 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_03.test_selenium_select_box&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_04.test_svg_img" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearningSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_04.test_svg_img&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -159,28 +176,13 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_Lab_Selenium_SVG.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearningSelenium" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_07_SVG/test_Lab_Selenium_SVG.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_04.test_svg_img" />
+        <item itemvalue="Python tests.Python tests for src.ex_07_SVG.test_Lab_Selenium_Maps.test_selenium_svg_maps" />
         <item itemvalue="Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_03.test_selenium_select_box" />
         <item itemvalue="Python tests.Python tests in Selenium_Task_08Dec_03.py" />
         <item itemvalue="Python tests.Python tests for src.ex_08_Select_Dropdown.test_Selenium_Select.test_selenium_svg_maps" />
-        <item itemvalue="Python tests.Python tests for src.ex_07_SVG.test_Lab_Selenium_Maps.test_selenium_svg_maps" />
-        <item itemvalue="Python tests.Python tests in test_Lab_Selenium_SVG.py" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +313,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768293047989</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Commits of 08-01-2026, Task 1 | Home Work">
+      <option name="closed" value="true" />
+      <created>1768360717938</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1768360717938</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -335,6 +345,7 @@
     <MESSAGE value="Selenium Program 11 and 12 (06-01-2026).&#10;Moving to the new folders" />
     <MESSAGE value="Commits of 08-01-2026" />
     <MESSAGE value="Commits of 08-01-2026 of all programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commits of 08-01-2026 of all programs" />
+    <MESSAGE value="Commits of 08-01-2026, Task 1 | Home Work" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commits of 08-01-2026, Task 1 | Home Work" />
   </component>
 </project>
