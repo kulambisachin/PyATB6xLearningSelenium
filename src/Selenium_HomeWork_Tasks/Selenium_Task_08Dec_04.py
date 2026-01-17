@@ -47,4 +47,6 @@ def test_svg_img():
             state.click()
             break
 
+    time.sleep(5)
+
     driver.quit()

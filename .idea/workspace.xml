@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69bc31a7-d5bc-4590-9c1e-459bac61d5bf" name="Changes" comment="Task 2 of 08-Dec-2026">
-      <change afterPath="$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/Selenium_Task_08Dec_05.py" afterDir="false" />
+    <list default="true" id="69bc31a7-d5bc-4590-9c1e-459bac61d5bf" name="Changes" comment="Task 3 of 08-Dec-2026 commits">
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Selenium_Actions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Selenium_Actions/test_Lab_SeleniumActions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Selenium_Actions/test_Lab_SeleniumActions_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_SeleniumWaits/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_SeleniumWaits/test_Selenium_FluentWait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_SeleniumWaits/test_selenium_explicit_waits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_SeleniumWaits/test_selenium_implicit_waits.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/Selenium_Task_08Dec_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/Selenium_Task_08Dec_04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +79,10 @@
     "Python tests.Python tests for src.ex_07_SVG.test_Lab_Selenium_Maps.test_selenium_svg_maps.executor": "Run",
     "Python tests.Python tests for src.ex_07_SVG.test_Lab_Selenium_SVG.test_selenium_timeout_exception.executor": "Run",
     "Python tests.Python tests for src.ex_08_Select_Dropdown.test_Selenium_Select.test_selenium_svg_maps.executor": "Run",
+    "Python tests.Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions.test_actions_keyboard_events.executor": "Run",
+    "Python tests.Python tests for src.ex_SeleniumWaits.test_Selenium_FluentWait.test_fluent_wait_explicit.executor": "Run",
+    "Python tests.Python tests for src.ex_SeleniumWaits.test_selenium_explicit_waits.test_selenium_explicit_wait.executor": "Run",
+    "Python tests.Python tests for src.ex_SeleniumWaits.test_selenium_implicit_waits.test_selenium_implicit_wait.executor": "Run",
     "Python tests.Python tests in Selenium_Task_08Dec_03.py.executor": "Run",
     "Python tests.Python tests in Selenium_Task_08Dec_05.py.executor": "Run",
     "Python tests.Python tests in Selenium_Task_25Dec_01.py.executor": "Run",
@@ -88,6 +99,7 @@
     "Python tests.Python tests in test_Selenium_AllBrowsers.py.executor": "Run",
     "Python tests.Python tests in test_Selenium_Popup.py.executor": "Run",
     "Python tests.Python tests in test_Selenium_Task05.py.executor": "Run",
+    "Python tests.Python tests in test_selenium_implicit_waits.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -101,8 +113,8 @@
       <recent name="D:\Sachin_Personal\TheTestingAcademy\PythonCode\PyATB6xLearningSelenium\src\ex_01_Selenium_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_05.test_selenium_nosuchexception">
-    <configuration name="Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_03.test_selenium_select_box" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for src.ex_SeleniumWaits.test_selenium_explicit_waits.test_selenium_explicit_wait">
+    <configuration name="Python tests for src.ex_07_SVG.test_Lab_Selenium_SVG.test_selenium_timeout_exception" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,11 +125,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_03.test_selenium_select_box&quot;" />
+      <option name="_new_target" value="&quot;src.ex_07_SVG.test_Lab_Selenium_SVG.test_selenium_timeout_exception&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_04.test_svg_img" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_SeleniumWaits.test_Selenium_FluentWait.test_fluent_wait_explicit" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,11 +140,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_04.test_svg_img&quot;" />
+      <option name="_new_target" value="&quot;src.ex_SeleniumWaits.test_Selenium_FluentWait.test_fluent_wait_explicit&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_05.test_selenium_nosuchexception" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_SeleniumWaits.test_selenium_explicit_waits.test_selenium_explicit_wait" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,11 +155,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_05.test_selenium_nosuchexception&quot;" />
+      <option name="_new_target" value="&quot;src.ex_SeleniumWaits.test_selenium_explicit_waits.test_selenium_explicit_wait&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.ex_07_SVG.test_Lab_Selenium_Maps.test_selenium_svg_maps" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_SeleniumWaits.test_selenium_implicit_waits.test_selenium_implicit_wait" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,11 +170,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_07_SVG.test_Lab_Selenium_Maps.test_selenium_svg_maps&quot;" />
+      <option name="_new_target" value="&quot;src.ex_SeleniumWaits.test_selenium_implicit_waits.test_selenium_implicit_wait&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in Selenium_Task_08Dec_05.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_selenium_implicit_waits.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,17 +185,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/Selenium_Task_08Dec_05.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_SeleniumWaits/test_selenium_implicit_waits.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_05.test_selenium_nosuchexception" />
-        <item itemvalue="Python tests.Python tests in Selenium_Task_08Dec_05.py" />
-        <item itemvalue="Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_04.test_svg_img" />
-        <item itemvalue="Python tests.Python tests for src.ex_07_SVG.test_Lab_Selenium_Maps.test_selenium_svg_maps" />
-        <item itemvalue="Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_03.test_selenium_select_box" />
+        <item itemvalue="Python tests.Python tests for src.ex_SeleniumWaits.test_selenium_explicit_waits.test_selenium_explicit_wait" />
+        <item itemvalue="Python tests.Python tests for src.ex_SeleniumWaits.test_Selenium_FluentWait.test_fluent_wait_explicit" />
+        <item itemvalue="Python tests.Python tests for src.ex_SeleniumWaits.test_selenium_implicit_waits.test_selenium_implicit_wait" />
+        <item itemvalue="Python tests.Python tests in test_selenium_implicit_waits.py" />
+        <item itemvalue="Python tests.Python tests for src.ex_07_SVG.test_Lab_Selenium_SVG.test_selenium_timeout_exception" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768390750435</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Task 3 of 08-Dec-2026 commits">
+      <option name="closed" value="true" />
+      <created>1768393054314</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1768393054314</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -356,6 +376,7 @@
     <MESSAGE value="Commits of 08-01-2026 of all programs" />
     <MESSAGE value="Commits of 08-01-2026, Task 1 | Home Work" />
     <MESSAGE value="Task 2 of 08-Dec-2026" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 2 of 08-Dec-2026" />
+    <MESSAGE value="Task 3 of 08-Dec-2026 commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 3 of 08-Dec-2026 commits" />
   </component>
 </project>
