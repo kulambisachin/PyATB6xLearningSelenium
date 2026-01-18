@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69bc31a7-d5bc-4590-9c1e-459bac61d5bf" name="Changes" comment="Selenium Waits and Actionchains commmits">
-      <change afterPath="$PROJECT_DIR$/src/ex_Checkboxes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Checkboxes/test_selenium_Checkboxes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="69bc31a7-d5bc-4590-9c1e-459bac61d5bf" name="Changes" comment="Checkbox programs commits" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -353,7 +349,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768667934918</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Checkbox programs commits">
+      <option name="closed" value="true" />
+      <created>1768749596497</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1768749596497</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -381,6 +385,7 @@
     <MESSAGE value="Task 2 of 08-Dec-2026" />
     <MESSAGE value="Task 3 of 08-Dec-2026 commits" />
     <MESSAGE value="Selenium Waits and Actionchains commmits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium Waits and Actionchains commmits" />
+    <MESSAGE value="Checkbox programs commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Checkbox programs commits" />
   </component>
 </project>
