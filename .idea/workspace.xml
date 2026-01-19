@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69bc31a7-d5bc-4590-9c1e-459bac61d5bf" name="Changes" comment="Checkbox programs commits" />
+    <list default="true" id="69bc31a7-d5bc-4590-9c1e-459bac61d5bf" name="Changes" comment="Checkbox programs commits">
+      <change afterPath="$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/test_Selenium_checkbox_HomeWork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +54,7 @@
     "Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_05.test_selenium_nosuchexception.executor": "Run",
     "Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_25Dec_01.test_selenium_homework_task1.executor": "Run",
     "Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_26Dec_02.test_selenium_homework_task2.executor": "Run",
+    "Python tests.Python tests for src.Selenium_HomeWork_Tasks.test_Selenium_checkbox_HomeWork.test_checkbox_last_element.executor": "Run",
     "Python tests.Python tests for src.ex_01_Selenium_Basics.test_Selenium_01.test_seleniumcommands.executor": "Run",
     "Python tests.Python tests for src.ex_02_Selenium_Commands.test_Selenium_07_OptionClass.test_chrome_options.executor": "Run",
     "Python tests.Python tests for src.ex_02_Selenium_Commands.test_Selenium_08_Project_1.test_selenium_project_1.executor": "Run",
@@ -90,6 +94,7 @@
     "Python tests.Python tests in test_Selenium_AllBrowsers.py.executor": "Run",
     "Python tests.Python tests in test_Selenium_Popup.py.executor": "Run",
     "Python tests.Python tests in test_Selenium_Task05.py.executor": "Run",
+    "Python tests.Python tests in test_Selenium_checkbox_HomeWork.py.executor": "Run",
     "Python tests.Python tests in test_selenium_implicit_waits.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -104,7 +109,22 @@
       <recent name="D:\Sachin_Personal\TheTestingAcademy\PythonCode\PyATB6xLearningSelenium\src\ex_01_Selenium_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for src.ex_Checkboxes.test_selenium_Checkboxes.test_selenium_checkboxes">
+  <component name="RunManager" selected="Python tests.Python tests for src.Selenium_HomeWork_Tasks.test_Selenium_checkbox_HomeWork.test_checkbox_last_element">
+    <configuration name="Python tests for src.Selenium_HomeWork_Tasks.test_Selenium_checkbox_HomeWork.test_checkbox_last_element" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearningSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.Selenium_HomeWork_Tasks.test_Selenium_checkbox_HomeWork.test_checkbox_last_element&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for src.ex_Checkboxes.test_selenium_Checkboxes.test_selenium_checkboxes" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
@@ -150,7 +170,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.ex_SeleniumWaits.test_selenium_implicit_waits.test_selenium_implicit_wait" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_Selenium_checkbox_HomeWork.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,32 +181,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_SeleniumWaits.test_selenium_implicit_waits.test_selenium_implicit_wait&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in test_selenium_implicit_waits.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearningSelenium" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_SeleniumWaits/test_selenium_implicit_waits.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/test_Selenium_checkbox_HomeWork.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for src.Selenium_HomeWork_Tasks.test_Selenium_checkbox_HomeWork.test_checkbox_last_element" />
+        <item itemvalue="Python tests.Python tests in test_Selenium_checkbox_HomeWork.py" />
         <item itemvalue="Python tests.Python tests for src.ex_Checkboxes.test_selenium_Checkboxes.test_selenium_checkboxes" />
         <item itemvalue="Python tests.Python tests for src.ex_SeleniumWaits.test_selenium_explicit_waits.test_selenium_explicit_wait" />
         <item itemvalue="Python tests.Python tests for src.ex_SeleniumWaits.test_Selenium_FluentWait.test_fluent_wait_explicit" />
-        <item itemvalue="Python tests.Python tests for src.ex_SeleniumWaits.test_selenium_implicit_waits.test_selenium_implicit_wait" />
-        <item itemvalue="Python tests.Python tests in test_selenium_implicit_waits.py" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768749596497</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Checkbox programs commits">
+      <option name="closed" value="true" />
+      <created>1768749911641</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1768749911641</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
