@@ -25,7 +25,12 @@ def test_actions_keyboard_events():
     # Shift key down and release the key
     first_name = driver.find_element(By.XPATH, "//input[@name='firstname']")
     actions = ActionChains(driver=driver)
+
+    # Entering the value with capital letters
     actions.key_down(Keys.SHIFT).send_keys_to_element(first_name, "Sachin").key_up(Keys.SHIFT).perform()
 
-    time.sleep(7)
+    # Entering the value with normal letters with send_keys_to_element
+    # actions.send_keys_to_element(first_name, "Sachin").perform()
+
+    time.sleep(3)
     driver.quit()

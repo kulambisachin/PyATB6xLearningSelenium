@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69bc31a7-d5bc-4590-9c1e-459bac61d5bf" name="Changes" comment="Checkbox programs commits">
-      <change afterPath="$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/test_Selenium_checkbox_HomeWork.py" afterDir="false" />
+    <list default="true" id="69bc31a7-d5bc-4590-9c1e-459bac61d5bf" name="Changes" comment="Checkbox HomeWork commits">
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Selenium_Actions/test_Lab_SeleniumActions_ClickAndHold.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_09_Selenium_Actions/test_Lab_SeleniumActions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_09_Selenium_Actions/test_Lab_SeleniumActions_keyboardEnteringValue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_09_Selenium_Actions/test_Lab_SeleniumActions_P2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_09_Selenium_Actions/test_Lab_SeleniumActions_MouseBack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +76,8 @@
     "Python tests.Python tests for src.ex_07_SVG.test_Lab_Selenium_SVG.test_selenium_timeout_exception.executor": "Run",
     "Python tests.Python tests for src.ex_08_Select_Dropdown.test_Selenium_Select.test_selenium_svg_maps.executor": "Run",
     "Python tests.Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions.test_actions_keyboard_events.executor": "Run",
+    "Python tests.Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_ClickAndHold.test_click_and_hold.executor": "Run",
+    "Python tests.Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_P2.test_actions_mouse_events.executor": "Run",
     "Python tests.Python tests for src.ex_Checkboxes.test_selenium_Checkboxes.test_selenium_checkboxes.executor": "Run",
     "Python tests.Python tests for src.ex_SeleniumWaits.test_Selenium_FluentWait.test_fluent_wait_explicit.executor": "Run",
     "Python tests.Python tests for src.ex_SeleniumWaits.test_selenium_explicit_waits.test_selenium_explicit_wait.executor": "Run",
@@ -82,6 +86,7 @@
     "Python tests.Python tests in Selenium_Task_08Dec_05.py.executor": "Run",
     "Python tests.Python tests in Selenium_Task_25Dec_01.py.executor": "Run",
     "Python tests.Python tests in Selenium_Task_26Dec_02.py.executor": "Run",
+    "Python tests.Python tests in test_Lab_SeleniumActions_ClickAndHold.py.executor": "Run",
     "Python tests.Python tests in test_Lab_SeleniumException_Stale.py.executor": "Run",
     "Python tests.Python tests in test_Lab_SeleniumException_Timeout.py.executor": "Run",
     "Python tests.Python tests in test_Lab_Selenium_SVG.py.executor": "Run",
@@ -109,8 +114,8 @@
       <recent name="D:\Sachin_Personal\TheTestingAcademy\PythonCode\PyATB6xLearningSelenium\src\ex_01_Selenium_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for src.Selenium_HomeWork_Tasks.test_Selenium_checkbox_HomeWork.test_checkbox_last_element">
-    <configuration name="Python tests for src.Selenium_HomeWork_Tasks.test_Selenium_checkbox_HomeWork.test_checkbox_last_element" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_ClickAndHold.test_click_and_hold">
+    <configuration name="Python tests for src.ex_06_Selenium_Exceptions.test_Lab_SeleniumException_Timeout.test_selenium_timeout_exception" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,11 +126,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.Selenium_HomeWork_Tasks.test_Selenium_checkbox_HomeWork.test_checkbox_last_element&quot;" />
+      <option name="_new_target" value="&quot;src.ex_06_Selenium_Exceptions.test_Lab_SeleniumException_Timeout.test_selenium_timeout_exception&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.ex_Checkboxes.test_selenium_Checkboxes.test_selenium_checkboxes" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_ClickAndHold.test_click_and_hold" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,11 +141,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_Checkboxes.test_selenium_Checkboxes.test_selenium_checkboxes&quot;" />
+      <option name="_new_target" value="&quot;src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_ClickAndHold.test_click_and_hold&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.ex_SeleniumWaits.test_Selenium_FluentWait.test_fluent_wait_explicit" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_MouseBack.test_actions_mouse_events" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,11 +156,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_SeleniumWaits.test_Selenium_FluentWait.test_fluent_wait_explicit&quot;" />
+      <option name="_new_target" value="&quot;src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_MouseBack.test_actions_mouse_events&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.ex_SeleniumWaits.test_selenium_explicit_waits.test_selenium_explicit_wait" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_keyboardEnteringValue.test_actions_keyboard_events" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,11 +171,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_SeleniumWaits.test_selenium_explicit_waits.test_selenium_explicit_wait&quot;" />
+      <option name="_new_target" value="&quot;src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_keyboardEnteringValue.test_actions_keyboard_events&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_Selenium_checkbox_HomeWork.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_Lab_SeleniumActions_ClickAndHold.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,17 +186,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/test_Selenium_checkbox_HomeWork.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_09_Selenium_Actions/test_Lab_SeleniumActions_ClickAndHold.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for src.Selenium_HomeWork_Tasks.test_Selenium_checkbox_HomeWork.test_checkbox_last_element" />
-        <item itemvalue="Python tests.Python tests in test_Selenium_checkbox_HomeWork.py" />
-        <item itemvalue="Python tests.Python tests for src.ex_Checkboxes.test_selenium_Checkboxes.test_selenium_checkboxes" />
-        <item itemvalue="Python tests.Python tests for src.ex_SeleniumWaits.test_selenium_explicit_waits.test_selenium_explicit_wait" />
-        <item itemvalue="Python tests.Python tests for src.ex_SeleniumWaits.test_Selenium_FluentWait.test_fluent_wait_explicit" />
+        <item itemvalue="Python tests.Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_ClickAndHold.test_click_and_hold" />
+        <item itemvalue="Python tests.Python tests in test_Lab_SeleniumActions_ClickAndHold.py" />
+        <item itemvalue="Python tests.Python tests for src.ex_06_Selenium_Exceptions.test_Lab_SeleniumException_Timeout.test_selenium_timeout_exception" />
+        <item itemvalue="Python tests.Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_MouseBack.test_actions_mouse_events" />
+        <item itemvalue="Python tests.Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_keyboardEnteringValue.test_actions_keyboard_events" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +375,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768749911641</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Checkbox HomeWork commits">
+      <option name="closed" value="true" />
+      <created>1768809932867</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1768809932867</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -399,6 +412,7 @@
     <MESSAGE value="Task 3 of 08-Dec-2026 commits" />
     <MESSAGE value="Selenium Waits and Actionchains commmits" />
     <MESSAGE value="Checkbox programs commits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Checkbox programs commits" />
+    <MESSAGE value="Checkbox HomeWork commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Checkbox HomeWork commits" />
   </component>
 </project>
