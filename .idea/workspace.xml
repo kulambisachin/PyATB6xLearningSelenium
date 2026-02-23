@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69bc31a7-d5bc-4590-9c1e-459bac61d5bf" name="Changes" comment="Selenium actions chains import package with keyboard, mouse events">
-      <change afterPath="$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/Selenium_Task_10Jan_2026_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Selenium_Actions/test_Lab_SeleniumActions_MakeMyTrip.py" afterDir="false" />
+    <list default="true" id="69bc31a7-d5bc-4590-9c1e-459bac61d5bf" name="Changes" comment="Selenium Task 10th Jan 2026, Home Work-01">
+      <change afterPath="$PROJECT_DIR$/src/Selenium_HomeWork_Tasks/Selenium_Task_10thJan_2026_07.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,69 +46,70 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_03.test_selenium_select_box.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_04.test_svg_img.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_05.test_selenium_nosuchexception.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_10Jan_2026_06.test_makemytrip.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_25Dec_01.test_selenium_homework_task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_26Dec_02.test_selenium_homework_task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.Selenium_HomeWork_Tasks.test_Selenium_checkbox_HomeWork.test_checkbox_last_element.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_01_Selenium_Basics.test_Selenium_01.test_seleniumcommands.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_02_Selenium_Commands.test_Selenium_07_OptionClass.test_chrome_options.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_02_Selenium_Commands.test_Selenium_08_Project_1.test_selenium_project_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_02_Selenium_Commands.test_Selenium_Task05.test_seleniumTask05.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_03_Selenium_MiniProjects_Locators.test_Selenium_09_ProjectNegativeCase.test_selenium_newproject_negative_case.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_03_Selenium_MiniProjects_Locators.test_Selenium_10_ParallelExecution_08_09.test_selenium_newproject_negative_case.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_03_Selenium_MiniProjects_Locators.test_Selenium_11_VwoLoginPage.test_vwo_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_03_Selenium_MiniProjects_Locators.test_Selenium_12_Vwo_FreeTrial.test_free_trial_page.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_05_JavascriptAlerts.test_Selenium_Alerts.test_javascript_confirm_alerts.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_05_JavascriptAlerts.test_Selenium_Alerts.test_javascript_prompt_alerts.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_05_JavascriptAlerts.test_Selenium_Alerts.test_selenium_alerts.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_05_JavascriptAlerts.test_Selenium_Popup.test_selenium_popup.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_06_Selenium_Exceptions.test_Lab_SeleniumException.test_selenium_exception.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_06_Selenium_Exceptions.test_Lab_SeleniumException_Stale.test_selenium_exception_stale.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_06_Selenium_Exceptions.test_Lab_SeleniumException_Timeout.test_selenium_timeout_exception.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_07_SVG.test_Lab_Selenium_Maps.test_selenium_svg_maps.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_07_SVG.test_Lab_Selenium_SVG.test_selenium_timeout_exception.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_08_Select_Dropdown.test_Selenium_Select.test_selenium_svg_maps.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions.test_actions_keyboard_events.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_ClickAndHold.test_click_and_hold.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_MakeMyTrip.test_make_my_trip.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_P2.test_actions_mouse_events.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_Checkboxes.test_selenium_Checkboxes.test_selenium_checkboxes.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_SeleniumWaits.test_Selenium_FluentWait.test_fluent_wait_explicit.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_SeleniumWaits.test_selenium_explicit_waits.test_selenium_explicit_wait.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_SeleniumWaits.test_selenium_implicit_waits.test_selenium_implicit_wait.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in Selenium_Task_08Dec_03.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in Selenium_Task_08Dec_05.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in Selenium_Task_10Jan_2026_06.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in Selenium_Task_25Dec_01.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in Selenium_Task_26Dec_02.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab_SeleniumActions_ClickAndHold.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab_SeleniumActions_MakeMyTrip.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab_SeleniumException_Stale.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab_SeleniumException_Timeout.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab_Selenium_SVG.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Selenium_07_OptionClass.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Selenium_08_Project_1.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Selenium_09_ProjectNegativeCase.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Selenium_10_ParallelExecution_08_09.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Selenium_11_VwoLoginPage.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Selenium_Alerts.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Selenium_AllBrowsers.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Selenium_Popup.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Selenium_Task05.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Selenium_checkbox_HomeWork.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_selenium_implicit_waits.py.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_03.test_selenium_select_box.executor": "Run",
+    "Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_04.test_svg_img.executor": "Run",
+    "Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_08Dec_05.test_selenium_nosuchexception.executor": "Run",
+    "Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_10Jan_2026_06.test_makemytrip.executor": "Run",
+    "Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_10thJan_2026_07.test_spicejet.executor": "Run",
+    "Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_25Dec_01.test_selenium_homework_task1.executor": "Run",
+    "Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_26Dec_02.test_selenium_homework_task2.executor": "Run",
+    "Python tests.Python tests for src.Selenium_HomeWork_Tasks.test_Selenium_checkbox_HomeWork.test_checkbox_last_element.executor": "Run",
+    "Python tests.Python tests for src.ex_01_Selenium_Basics.test_Selenium_01.test_seleniumcommands.executor": "Run",
+    "Python tests.Python tests for src.ex_02_Selenium_Commands.test_Selenium_07_OptionClass.test_chrome_options.executor": "Run",
+    "Python tests.Python tests for src.ex_02_Selenium_Commands.test_Selenium_08_Project_1.test_selenium_project_1.executor": "Run",
+    "Python tests.Python tests for src.ex_02_Selenium_Commands.test_Selenium_Task05.test_seleniumTask05.executor": "Run",
+    "Python tests.Python tests for src.ex_03_Selenium_MiniProjects_Locators.test_Selenium_09_ProjectNegativeCase.test_selenium_newproject_negative_case.executor": "Run",
+    "Python tests.Python tests for src.ex_03_Selenium_MiniProjects_Locators.test_Selenium_10_ParallelExecution_08_09.test_selenium_newproject_negative_case.executor": "Run",
+    "Python tests.Python tests for src.ex_03_Selenium_MiniProjects_Locators.test_Selenium_11_VwoLoginPage.test_vwo_login.executor": "Run",
+    "Python tests.Python tests for src.ex_03_Selenium_MiniProjects_Locators.test_Selenium_12_Vwo_FreeTrial.test_free_trial_page.executor": "Run",
+    "Python tests.Python tests for src.ex_05_JavascriptAlerts.test_Selenium_Alerts.test_javascript_confirm_alerts.executor": "Run",
+    "Python tests.Python tests for src.ex_05_JavascriptAlerts.test_Selenium_Alerts.test_javascript_prompt_alerts.executor": "Run",
+    "Python tests.Python tests for src.ex_05_JavascriptAlerts.test_Selenium_Alerts.test_selenium_alerts.executor": "Run",
+    "Python tests.Python tests for src.ex_05_JavascriptAlerts.test_Selenium_Popup.test_selenium_popup.executor": "Run",
+    "Python tests.Python tests for src.ex_06_Selenium_Exceptions.test_Lab_SeleniumException.test_selenium_exception.executor": "Run",
+    "Python tests.Python tests for src.ex_06_Selenium_Exceptions.test_Lab_SeleniumException_Stale.test_selenium_exception_stale.executor": "Run",
+    "Python tests.Python tests for src.ex_06_Selenium_Exceptions.test_Lab_SeleniumException_Timeout.test_selenium_timeout_exception.executor": "Run",
+    "Python tests.Python tests for src.ex_07_SVG.test_Lab_Selenium_Maps.test_selenium_svg_maps.executor": "Run",
+    "Python tests.Python tests for src.ex_07_SVG.test_Lab_Selenium_SVG.test_selenium_timeout_exception.executor": "Run",
+    "Python tests.Python tests for src.ex_08_Select_Dropdown.test_Selenium_Select.test_selenium_svg_maps.executor": "Run",
+    "Python tests.Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions.test_actions_keyboard_events.executor": "Run",
+    "Python tests.Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_ClickAndHold.test_click_and_hold.executor": "Run",
+    "Python tests.Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_MakeMyTrip.test_make_my_trip.executor": "Run",
+    "Python tests.Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_P2.test_actions_mouse_events.executor": "Run",
+    "Python tests.Python tests for src.ex_Checkboxes.test_selenium_Checkboxes.test_selenium_checkboxes.executor": "Run",
+    "Python tests.Python tests for src.ex_SeleniumWaits.test_Selenium_FluentWait.test_fluent_wait_explicit.executor": "Run",
+    "Python tests.Python tests for src.ex_SeleniumWaits.test_selenium_explicit_waits.test_selenium_explicit_wait.executor": "Run",
+    "Python tests.Python tests for src.ex_SeleniumWaits.test_selenium_implicit_waits.test_selenium_implicit_wait.executor": "Run",
+    "Python tests.Python tests in Selenium_Task_08Dec_03.py.executor": "Run",
+    "Python tests.Python tests in Selenium_Task_08Dec_05.py.executor": "Run",
+    "Python tests.Python tests in Selenium_Task_10Jan_2026_06.py.executor": "Run",
+    "Python tests.Python tests in Selenium_Task_25Dec_01.py.executor": "Run",
+    "Python tests.Python tests in Selenium_Task_26Dec_02.py.executor": "Run",
+    "Python tests.Python tests in test_Lab_SeleniumActions_ClickAndHold.py.executor": "Run",
+    "Python tests.Python tests in test_Lab_SeleniumActions_MakeMyTrip.py.executor": "Run",
+    "Python tests.Python tests in test_Lab_SeleniumException_Stale.py.executor": "Run",
+    "Python tests.Python tests in test_Lab_SeleniumException_Timeout.py.executor": "Run",
+    "Python tests.Python tests in test_Lab_Selenium_SVG.py.executor": "Run",
+    "Python tests.Python tests in test_Selenium_07_OptionClass.py.executor": "Run",
+    "Python tests.Python tests in test_Selenium_08_Project_1.py.executor": "Run",
+    "Python tests.Python tests in test_Selenium_09_ProjectNegativeCase.py.executor": "Run",
+    "Python tests.Python tests in test_Selenium_10_ParallelExecution_08_09.py.executor": "Run",
+    "Python tests.Python tests in test_Selenium_11_VwoLoginPage.py.executor": "Run",
+    "Python tests.Python tests in test_Selenium_Alerts.py.executor": "Run",
+    "Python tests.Python tests in test_Selenium_AllBrowsers.py.executor": "Run",
+    "Python tests.Python tests in test_Selenium_Popup.py.executor": "Run",
+    "Python tests.Python tests in test_Selenium_Task05.py.executor": "Run",
+    "Python tests.Python tests in test_Selenium_checkbox_HomeWork.py.executor": "Run",
+    "Python tests.Python tests in test_selenium_implicit_waits.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Sachin_Personal\TheTestingAcademy\PythonCode\PyATB6xLearningSelenium\src\ex_04_Selenium_Locators" />
@@ -117,7 +117,7 @@
       <recent name="D:\Sachin_Personal\TheTestingAcademy\PythonCode\PyATB6xLearningSelenium\src\ex_01_Selenium_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_10Jan_2026_06.test_makemytrip">
+  <component name="RunManager" selected="Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_10thJan_2026_07.test_spicejet">
     <configuration name="Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_10Jan_2026_06.test_makemytrip" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
@@ -133,7 +133,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_ClickAndHold.test_click_and_hold" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_10thJan_2026_07.test_spicejet" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,7 +144,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_ClickAndHold.test_click_and_hold&quot;" />
+      <option name="_new_target" value="&quot;src.Selenium_HomeWork_Tasks.Selenium_Task_10thJan_2026_07.test_spicejet&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -195,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_10thJan_2026_07.test_spicejet" />
         <item itemvalue="Python tests.Python tests for src.Selenium_HomeWork_Tasks.Selenium_Task_10Jan_2026_06.test_makemytrip" />
         <item itemvalue="Python tests.Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_MakeMyTrip.test_make_my_trip" />
         <item itemvalue="Python tests.Python tests in Selenium_Task_10Jan_2026_06.py" />
         <item itemvalue="Python tests.Python tests in test_Lab_SeleniumActions_MakeMyTrip.py" />
-        <item itemvalue="Python tests.Python tests for src.ex_09_Selenium_Actions.test_Lab_SeleniumActions_ClickAndHold.test_click_and_hold" />
       </list>
     </recent_temporary>
   </component>
@@ -394,7 +394,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769174657272</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Selenium Task 10th Jan 2026, Home Work-01">
+      <option name="closed" value="true" />
+      <created>1771827856056</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1771827856056</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -425,7 +433,8 @@
     <MESSAGE value="Checkbox programs commits" />
     <MESSAGE value="Checkbox HomeWork commits" />
     <MESSAGE value="Selenium actions chains import package with keyboard, mouse events" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium actions chains import package with keyboard, mouse events" />
+    <MESSAGE value="Selenium Task 10th Jan 2026, Home Work-01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium Task 10th Jan 2026, Home Work-01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
